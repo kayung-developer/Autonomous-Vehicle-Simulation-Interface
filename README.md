@@ -76,8 +76,6 @@ The `model.h5` file is a pre-trained TensorFlow model that performs object detec
 To train your own model, you can use a dataset of images with labeled objects. Then, follow TensorFlow's tutorial for training object detection models, and save the model as `model.h5`.
 
 
-### Screenshots
-![Screenshots]()
 ### Credits
 - CustomTkinter: For the beautiful and functional user interface.
 - TensorFlow: For the object detection capabilities.
